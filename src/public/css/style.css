@@ -1,0 +1,32 @@
+.myboldFont {
+    color: black;
+    font-weight: bold;
+}
+.mydiv {
+    position: relative;
+}
+.post_edit {
+    height: 35px;
+    right: 17px;
+    top: 0px;
+    color: #00FFFF;
+    position: absolute;
+    font-weight: bold;
+}
+.post_edit:hover {
+    color: #00CED1;
+}
+.delete_edit {
+    height: 35px;
+    right: 50px;
+    top: 0px;
+
+    position: absolute;
+    font-weight: bold;
+}
+.delete_edit>a {
+    color: red;
+}
+.delete_edit>a:hover {
+    color: #B22222;
+}
