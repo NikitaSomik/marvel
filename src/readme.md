@@ -1,3 +1,9 @@
+1. download project
+2. import DB
+3. create file .env and specify DB
+4. install composer 
+5. open project
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
